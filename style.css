@@ -3,6 +3,7 @@
 * {
     box-sizing: border-box;
 }
+
 body{
     font-family: 'Muli', sans-serif;
     display: flex;
@@ -11,6 +12,7 @@ body{
     height: 100vh;
     overflow: hidden;
     margin: 0;
+    background: #00783A;
 }
 .container{
     display: flex;
